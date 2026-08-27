@@ -1,0 +1,11 @@
+# Drafts and research output - your content, not the framework
+output/*
+!output/.gitkeep
+
+# The voice profile and vocabulary once filled in with real material:
+# customer quotes are confidential research, and the voice profile is personal.
+reference/customer-vocabulary.md
+reference/audience-profile.md
+reference/post-examples/
+
+.DS_Store
