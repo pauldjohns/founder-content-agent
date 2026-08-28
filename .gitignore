@@ -9,3 +9,8 @@ reference/audience-profile.md
 reference/post-examples/
 
 .DS_Store
+
+# Local configuration and secrets. The example file is the only one that ships.
+.env
+.env.*
+!.env.example
